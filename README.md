@@ -39,7 +39,7 @@ Include the **ng-csv-import** element with its options:
 ```html
 <ng-csv-import content="csv.content"
 	header="true" 
-	separator=","
+	separator="','"
 	result="csv.result"></ng-csv-import>
 ```
 
